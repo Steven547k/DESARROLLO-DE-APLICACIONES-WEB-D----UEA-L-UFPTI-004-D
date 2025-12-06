@@ -1,9 +1,9 @@
-# 2525---PROGRAMACION-ORIENTADA-A-OBJETOS-D----UEA-L-UFB-030
+# 2526 - DESARROLLO DE APLICACIONES WEB (D)
 
 ## Información de la asignatura
 
 - **Institución**: Universidad Estatal Amazónica (UEA)  
-- **Carrera**: Ingeniería en Tecnologías de la Información y Comunicación  
-- **Asignatura**: Programación Orientada a Objetos (UEA-L-UFB-030)  
+- **Carrera**: Tecnologías de la Información
+- **Asignatura**: Desarrollo de Aplicaciones Web
 - **Docente**: Ing. Walter Núñez Zamora, Mgs.
 - **Estudiante**: Omar Steven Gaibor Cujilema
